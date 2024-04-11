@@ -1,6 +1,6 @@
 # 22 选 5 - 数据结构大作业
 
-![image](https://github.com/OXeu/5in22/assets/36541432/0d0268fe-051a-4979-b80b-80e2ed22f692)
+![image](https://github.com/OXeu/5in22/assets/36541432/fc7da09c-c60a-4574-854a-ab05e5d83198)
 
 # 主要功能
 - 选 5 乐透
